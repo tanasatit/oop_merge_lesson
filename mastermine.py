@@ -6,7 +6,7 @@ class Mastermind:
         self.color_num = color_num
         self.position = position
         self.num = 0
-        self.rounds = 1
+        self.rounds = 0
         self.ans = ''
         self.check = ''
 
